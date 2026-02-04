@@ -1,0 +1,51 @@
+{
+  "listings": {},
+  "sales": {
+    "215:": 1770200283036
+  },
+  "tokenTrades": {},
+  "dexTrades": {},
+  "watchlist": {},
+  "media": {
+    "listed": null,
+    "sold": null,
+    "level": null,
+    "token": {
+      "kind": "video",
+      "file_id": "BAACAgQAAxkBAAIEUWmBzvjsB8dH7YLN-ASNYGsAAcqLqAACPBoAAsDZEFC7QjjXsd46aDgE"
+    },
+    "dex": {
+      "kind": "video",
+      "file_id": "BAACAgQAAxkBAAIEUWmBzvjsB8dH7YLN-ASNYGsAAcqLqAACPBoAAsDZEFC7QjjXsd46aDgE"
+    },
+    "bigbuy": {
+      "kind": "video",
+      "file_id": "BAACAgQAAxkBAAIEVWmBzxBOEaiHNqJZ5M93bZxZ88hQAAI9GgACwNkQULIMdYbMEhrKOAQ"
+    }
+  },
+  "awaiting": null,
+  "zealous": {
+    "pair": "0xECA5b3BdbE53962Fa2D9088d544BD2750Afb88Bc",
+    "tokenIs0": false,
+    "lastBlock": 11832372,
+    "tokenDecimals": 18,
+    "wkasDecimals": 18,
+    "tokenSymbol": "Bonkey",
+    "wkasSymbol": "WKAS"
+  },
+  "kaspacom": {
+    "pair": "0xE1C171630837e2922fc2629a09173179Db9aC394",
+    "tokenIs0": false,
+    "lastBlock": 11832372,
+    "tokenDecimals": 18,
+    "wkasDecimals": 18,
+    "tokenSymbol": "Bonkey",
+    "wkasSymbol": "WKAS",
+    "token0": "0x2c2ae87ba178f48637acae54b87c3924f544a83e",
+    "token1": "0x7eaf64da58a6dc181567d894cb2f2272bb0ef753"
+  },
+  "mints": {},
+  "tokenImage": "BAACAgQAAxkBAAICcWl3qrieoX6l3JFXzJTqdfSfbvY2AAKrGgAC1qa4U-1V7wJ56FyPOAQ",
+  "dexImage": "BAACAgQAAxkBAAICbWl3qnhQ9qJHEwgv5DQ-VHaH3-4CAAKqGgAC1qa4U6c1gOqRNCnwOAQ",
+  "bigBuyImage": "BAACAgQAAxkBAAICdml3tcni7noPCzCiJHe-uKkNTs7ZAALBGgAC1qa4U5t3-TtG6xenOAQ"
+}
